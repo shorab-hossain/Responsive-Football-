@@ -35,7 +35,7 @@ header:hover .bannar-img {
     color: white;
     text-decoration: none;
     font-size: 20px;
-    padding: 0px 15px;
+    padding: 0px 20px;
 }
 .btn {
     padding: 8px 20px;
@@ -154,6 +154,10 @@ footer{
     background: #c5c1c1;
     border-radius: 20px;
     margin-right: 10px;
+}
+.icon i:hover{
+    background: gray;
+    color: black;
 }
 .last-content{
     font-size: 20px;
